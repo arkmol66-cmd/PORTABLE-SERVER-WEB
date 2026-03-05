@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Servidor web portátil completo que funciona em pen-drive, Windows e Android. Hospede sites estáticos sem instalação, com suporte a HTTPS, DNS local, sincronização USB e chat em tempo real.
+AVISO O APP ANDROI NÃO FOI LANÇADO
 
 ## ✨ Características
 
